@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-![Profile Banner](https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif) <!-- Add a banner image or relevant graphic at the top -->
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQH1Hj_BuEls_Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728667020386?e=1733961600&v=beta&t=glLjDBtzHPS1LPJbSXE4Z-yQQCyw0yzefdZpm0vU3Vs) <!-- Add a banner image or relevant graphic at the top -->
 
 I'm **B.Pranay Raj**, a **Data Analyst** passionate about uncovering insights from data and presenting them through compelling visualizations. With hands-on experience in data analysis, business intelligence, and big data architecture, I enjoy using tools like **Python**, **SQL**, **Power BI**, and **Tableau** to bring data to life.
 
