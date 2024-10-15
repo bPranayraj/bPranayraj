@@ -14,7 +14,7 @@ I'm **B.Pranay Raj**, a **Data Analyst** passionate about uncovering insights fr
 - 🌱 **Currently Learning**: Big Data Architectures, Apache Airflow, Advanced Machine Learning
 - 💡 **Areas of Interest**:
    - Business Intelligence 📊
-   - Data Analyst📊
+   - Data Analyst 📈
    - Data Engineering ⚙️
    - Machine Learning 🤖
    - Big Data 🗃️
