@@ -9,11 +9,12 @@ I'm **B.Pranay Raj**, a **Data Analyst** passionate about uncovering insights fr
 ## 🚀 About Me
 ![About Me Icon](https://github.com/yourusername/yourrepo/blob/main/about-me-icon.png) <!-- Optional image beside the About Me section -->
 
-- 🎓 **Education**: [Your Degree], [Your University]
+- 🎓 **Education**: 
 - 🛠 **Core Skills**: Data Cleaning, Data Transformation, Data Visualization, ETL Processes
 - 🌱 **Currently Learning**: Big Data Architectures, Apache Airflow, Advanced Machine Learning
 - 💡 **Areas of Interest**:
    - Business Intelligence 📊
+   - Data Analyst📊
    - Data Engineering ⚙️
    - Machine Learning 🤖
    - Big Data 🗃️
@@ -82,10 +83,7 @@ My **Master's project** that focuses on building a **Big Data architecture** usi
 
 ## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bPranayraj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bPranayraj&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![bPranayraj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bPranayraj&theme=prussian&hide_border=true)
 
 ---
 
